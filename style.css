@@ -1,4 +1,4 @@
-@import url('https://fonts.cdnfonts.com/css/samarkan');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=PT+Sans&family=Poppins&display=swap');
 
 * {
     margin: 0;
@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    font-family: 'Samarkan', 'cooper black','Times New Roman', Times, serif;
+    font-family: 'Agbalumo', 'cooper black','Times New Roman', Times, serif;
     filter: drop-shadow(0 0 12px fada82);
     animation: glow 1.47s alternate infinite;
     text-align: center;
