@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    font-family: 'Agbalumo', 'cooper black','Times New Roman', Times, serif;
+    font-family: Agbalumo, 'cooper black','Times New Roman', Times, serif;
     filter: drop-shadow(0 0 12px fada82);
     animation: glow 1.47s alternate infinite;
     text-align: center;
